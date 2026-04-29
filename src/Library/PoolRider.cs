@@ -5,6 +5,7 @@ namespace Ucu.Poo.RideShare
 {
     public class PoolRider : Rider
     {
+        public int PassengerQuantity;
         public PoolRider()
         {
         }
